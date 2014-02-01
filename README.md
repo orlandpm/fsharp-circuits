@@ -1,7 +1,7 @@
 fsharp-circuits
 ===============
 
-showing how to model, draw, and calculate on DC circuit elements using F# features
+solving and drawing DC circuits in ~150 expressive lines of F#
 
 ![circuit drawn with F#!](https://raw2.github.com/orlandpm/fsharp-circuits/master/mycircuit.png)
 
