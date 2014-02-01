@@ -7,4 +7,4 @@ Solving and drawing DC circuits in ~150 expressive lines of F#.
 
 To draw it yourself, just run the fsx (though I've only tried in on mono).
 
-I learned how to draw recursively at a [SFsharp djojo](https://github.com/sfsharp/dojo-fractal-forest)
+I learned how to draw recursively at a [SFsharp dojo](https://github.com/sfsharp/dojo-fractal-forest).
